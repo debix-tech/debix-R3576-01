@@ -62,11 +62,8 @@ CE | RCM | C-Tick | FCC | UKCA | ROHS | PSE
 | Product                     | Model               |
 |-----------------------------|---------------------|
 | DEBIX Fanless Aluminum Enclosure | EMC-7090B R3576-01|
-| I/O Board                   | EMB-AS-E01          |
-| LoRa Board                  | EMB-AS-03          |
 | SBC POE Board               | EMB-AS-06          |
-| DEBIX Camera Modules        | Camera 200A; Camera 500A; Camera 1300A |
-| DEBIX Display Screen        | DEBIX TD080B; DEBIX TD050H; DEBIX TD070H; DEBIX TD101H |
+| DEBIX Display Screen        | DEBIX TD080B;<br> DEBIX TD050H;<br> DEBIX TD070H;<br> DEBIX TD101H |
 
 ## Safety Instructions and Warnings:
 **General:**
