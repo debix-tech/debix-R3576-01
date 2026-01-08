@@ -26,7 +26,7 @@ The DEBIX R3576-01 is a commercial-grade single-board computer based on the Rock
 | Boot Mode       | Boot from eMMC                                                          |
 |**Communnication**|                                                                      
 | Gigabit Network| 2 x Gigabit Ethernet Interfaces:<br> 1\) 1 x RJ45 with PoE power supply (needs PoE power supply module) <br> 2\) 1 x RJ45 |
-| WiFi & BT       | 2.4GHz & 5GHz Wi-Fi 6, BT 5.0, external Wi-Fi SMA antenna connector     |
+| WiFi & BT       | 2.4GHz & 5GHz Wi-Fi 6, BT 5.0, external Wi-Fi SMA antenna connector (IPEX-1)     |
 |**Video & Audio**|                                                                      
 | HDMI            | 1 x HDMI output with Type-A HDMI female                                 |
 | MIPI CSI        | 1 x MIPI CSI, supports 4-lane, 24Pin 0.5mm Pitch FPC socket             |
