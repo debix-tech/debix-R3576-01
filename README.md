@@ -8,9 +8,9 @@
 The DEBIX R3576-01 is a commercial-grade single-board computer based on the Rockchip RK3576, which provides comprehensive system software development and rich and scalable I/O interfaces for rapid application in intelligent robotics, edge computing, internet of Things and security.
 
 ## Main Features
-- **Powerful Performance:** Built for demanding commercial or consumer applications, DEBIX R3576-01 is equipped with an octa-core CPU architecture up to 2.2GHz, combining a quad-core ARM Cortex-A72 cluster and a quad-core ARM Cortex-A53 cluster, and with 2GB/4GB/8GB LPDDR4 RAM. This combination ensures smooth operation even for complex processing tasks.
+- **Powerful Performance:** Features an octa-core CPU running up to 2.2GHz, combining a quad-core ARM Cortex-A72 cluster with a quad-core ARM Cortex-A53 cluster. It includes a built-in Watchdog Timer and supports 2GB, 4GB, or 8GB of LPDDR4 RAM, ensuring smooth and reliable performance even for complex processing tasks.
 - **Commercial-grade Build:** Designed for harsh environments, DEBIX R3576-01 features commercial-grade components and a wide CPU temperature range of 0°C to 70°C.
-- **Rick Connectivity:** DEBIX R3576-01 offers a comprehensive range of connectivity options,including Gigabit Ethernet, 2.4GHz & 5GHz Wi-Fi 6, Bluetooth 5.0, high-speed USB 3.0, and PCIe support. This allows for easy connection and control of various peripherals.
+- **Rick Connectivity:** Offers a comprehensive range of connectivity options,including Gigabit Ethernet, 2.4GHz & 5GHz Wi-Fi 6, Bluetooth 5.0, high-speed USB 3.0, and PCIe support. This allows for easy connection and control of various peripherals.
 
 <p align="center">
 <img  width=60% height=auto src="./Media_Assets/DEBIX_R3576_01_2.png" alt="DEBIX_R3576_01_2">
@@ -19,7 +19,7 @@ The DEBIX R3576-01 is a commercial-grade single-board computer based on the Rock
 ## Specification
 | System          |                                                                         |
 |-----------------|-------------------------------------------------------------------------|
-| CPU             | Rockchip RK3576, 4 x Cortex-A72+4 x Cortex-A53 up to 2.2GHz, comes with an integrated neural processing unit (NPU) that delivers up to 6 TOPS (RKNN), and with GPU G52 MC3  |
+| CPU             | Rockchip RK3576, 4 x Cortex-A72+4 x Cortex-A53 up to 2.2GHz, comes with an integrated neural processing unit (NPU) that delivers up to 6 TOPS (RKNN), and with GPU G52 MC3, and a built-in Watchdog Timer  |
 | Memory          | 2GB LPDDR4 (4GB/8GB optional)                                           |
 | Storage         | 1\) Default: Onboard 32GB eMMC (8GB/16GB/64GB/128GB/256GB optional)<br> 2\) Micro SD card 8GB/16GB/32GB/64GB/128GB/256GB optional  |
 | OS              | Android 14, Debian 12, Ubuntu 20.04 Server                              |
@@ -28,7 +28,7 @@ The DEBIX R3576-01 is a commercial-grade single-board computer based on the Rock
 | Gigabit Network| 2 x Gigabit Ethernet Interfaces:<br> 1\) 1 x RJ45 with PoE power supply (needs PoE power supply module) <br> 2\) 1 x RJ45 |
 | WiFi & BT       | 2.4GHz & 5GHz Wi-Fi 6, BT 5.0, external Wi-Fi SMA antenna connector (IPEX-1)     |
 |**Video & Audio**|                                                                      
-| HDMI            | 1 x HDMI output with Type-A HDMI female                                 |
+| HDMI™            | 1 x HDMI™ output with Type-A HDMI™ female                                 |
 | MIPI CSI        | 1 x MIPI CSI, supports 4-lane, 24Pin 0.5mm Pitch FPC socket             |
 | MIPI DSI        | 1 x MIPI DSI, supports 4-lane, 24Pin 0.5mm Pitch FPC socket             |
 | Audio           | 1 x 3.5mm headphone and microphone combo port                           |
